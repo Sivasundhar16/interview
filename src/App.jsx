@@ -106,7 +106,7 @@ const App = () => {
                   <p className="text-sm text-gray-500 mt-3">
                     Published: {post.published_at}
                   </p>
-                  <p className="text-sm text-gray-400">❤️ {post.likes} Likes</p>
+                  <p className="text-sm text-gray-400"> {post.likes} Likes</p>
                 </div>
               </div>
             ))}
