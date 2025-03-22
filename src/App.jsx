@@ -32,7 +32,7 @@ const App = () => {
       {/* Navbar */}
       <nav className="bg-gray-800 p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-3xl font-bold">BlogX</h1>
+          <h1 className="text-3xl font-bold">Siva Blog</h1>
           <ul className="flex gap-6 text-gray-300">
             <li className="hover:text-white cursor-pointer">Home</li>
             <li className="hover:text-white cursor-pointer">Categories</li>
@@ -44,7 +44,7 @@ const App = () => {
       <div className="container mx-auto p-6">
         {/* Hero Section */}
         <section className="text-center py-10">
-          <h2 className="text-4xl font-bold mb-4">Welcome to BlogX</h2>
+          <h2 className="text-4xl font-bold mb-4">Welcome to Blog</h2>
           <p className="text-gray-400 text-lg">
             Explore amazing blogs from developers around the world
           </p>
